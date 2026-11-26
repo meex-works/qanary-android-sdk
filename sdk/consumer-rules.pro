@@ -1,0 +1,1 @@
+-keep class com.qanaries.sdk.Qanary { public *; }
